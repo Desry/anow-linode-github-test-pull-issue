@@ -7,6 +7,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo \"this is created in github\""
+    "script": "echo \"this is updated in anow\""
   }
 }
