@@ -8,6 +8,6 @@
   "customFieldValues": {
   },
   "processingCommand": {
-    "script": "echo \"task updated in anow\""
+    "script": "echo \"task updated in anow test\""
   }
 }
