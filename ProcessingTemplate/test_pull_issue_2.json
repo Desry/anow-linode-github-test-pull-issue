@@ -1,0 +1,13 @@
+{
+  "node": "LINUX_DES",
+  "owner": "api_user",
+  "priority": "0",
+  "processingType": "TASK",
+  "serverNodeType": "LINUX",
+  "taskType": "SH",
+  "customFieldValues": {
+  },
+  "processingCommand": {
+    "script": "echo \"task created in anow\""
+  }
+}
